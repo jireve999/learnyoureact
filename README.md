@@ -6,6 +6,9 @@ http://localhost:3000.
 
 
  » To print these instructions again, run: learnyoureact print
+ 
  » To execute your program in a test environment, run: learnyoureact run program.js
+ 
  » To verify your program, run: learnyoureact verify program.js
+ 
  » For help run: learnyoureact help
